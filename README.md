@@ -70,3 +70,8 @@ In this project, we use **K-Means Clustering** to segment customers based on **A
 1. Clone the repository:  
 ```bash
 git clone https://github.com/Harshu2326/Customer-Segmentation-Project.git
+## 👩‍💻 Author
+**Komati Reddy Harika**  
+- LinkedIn: [https://www.linkedin.com/in/harika-komatyreddy](https://www.linkedin.com/in/harika-komatyreddy)  
+- GitHub: [https://github.com/Harshu2326](https://github.com/Harshu2326)  
+- Email: harikareddykomatyreddy@gmail.com
